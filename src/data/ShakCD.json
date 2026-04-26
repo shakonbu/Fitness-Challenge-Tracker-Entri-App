@@ -1,0 +1,20 @@
+[
+   {
+      "chlngid":"1",
+      "title": "30-Day Morning Yoga",
+      "category": "Yoga",
+      "level": "Beginner",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773",
+      "participants": "1,247",
+      "description":"Start your day with energy! Join us for 30 days of morning yoga sessions. Perfect for beginners and experienced yogis alike.",
+      "duration":"30",
+      "goal":"Complete 30 morning yoga sessions",
+      "cr":"78%",
+      "rating":"4.8",
+      "bg":"/src/assets/yogacover.jpg",
+      "isCompleted":"false",
+      "startdate":"02/04/2026",
+      "enddate":"02/05/2026",
+       "userid":"1"       
+    }
+  ]

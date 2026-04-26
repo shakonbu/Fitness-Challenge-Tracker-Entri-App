@@ -1,0 +1,28 @@
+.main {
+  width: 100%;
+  height: 100vh;
+}
+video {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover; /* Ensures video fills container without stretching */
+  position: fixed; /* Stays in place while scrolling */
+ /* left: 0; */
+  top: 15%;
+ /* z-index: -1; Places video behind other elements*/
+}
+
+
+.content {
+  position: absolute;/* Allows content to sit on top of the video */
+  top: 25%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 80%;
+  overflow: hidden;
+  background-Color: rgba(255, 255, 255, 0.9);
+  /* color: white; */
+}
